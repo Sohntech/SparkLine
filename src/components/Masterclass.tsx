@@ -15,25 +15,25 @@ const Masterclass = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {[
             {
-              title: "Digital Transformation",
-              description: "Learn how to lead digital transformation initiatives in your organization",
+              title: "Wordpress",
+              description: "Master the art of building and maintaining WordPress websites",
               duration: "2 Days",
               participants: "20 Max",
-              certification: "Professional Certificate"
+              certification: "Certificate"
             },
             {
-              title: "Innovation Strategy",
-              description: "Master the art of creating and implementing innovative business strategies",
+              title: "UI/UX Design",
+              description: "Learn the principles of user-centered design and development",
               duration: "3 Days",
               participants: "15 Max",
-              certification: "Expert Certificate"
+              certification: "Certificate"
             },
             {
-              title: "Tech Leadership",
+              title: "SOLID Principles and Design Patterns",
               description: "Develop essential skills for leading technical teams and projects",
               duration: "2 Days",
               participants: "18 Max",
-              certification: "Leadership Certificate"
+              certification: "Certificate"
             }
           ].map((course, index) => (
             <div

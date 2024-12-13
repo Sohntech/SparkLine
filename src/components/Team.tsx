@@ -32,25 +32,25 @@ const Team = () => {
       name: "Seydina Mouhammad Diop",
       role: "Front End Developer/UI/UX Designer",
       image: "https://res.cloudinary.com/drxouwbms/image/upload/v1734106807/seydina_ipucvx.png",
-      bio: "Digital transformation expert with 15+ years of experience in tech innovation."
+      bio: "Digital transformation expert"
     },
     {
-      name: "Michael Chen",
-      role: "CTO & Technical Lead",
-      image: "https://images.unsplash.com/photo-1556157382-97eda2f9e2bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
+      name: "Serigne Fallou Seck",
+      role: "Back End Developer/Devops",
+      image: "https://res.cloudinary.com/drxouwbms/image/upload/v1734106849/fallou_rjjhkg.png",
       bio: "Full-stack developer and cloud architecture specialist with a passion for scalable solutions."
     },
     {
-      name: "Emma Rodriguez",
-      role: "Head of Innovation",
-      image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
+      name: "Fanta Ndao Tine",
+      role: "Full-stack developer",
+      image: "https://res.cloudinary.com/drxouwbms/image/upload/v1734106808/fanta_vadbzq.png",
       bio: "Innovation strategist focusing on emerging technologies and digital transformation."
     },
     {
-      name: "David Kumar",
-      role: "Lead Solutions Architect",
-      image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80",
-      bio: "Enterprise architecture expert specializing in digital solution design and implementation."
+      name: "Ndiaga Lo",
+      role: "Front End Developer/UI/UX Designer",
+      image: "https://res.cloudinary.com/drxouwbms/image/upload/v1732391040/h3gxu5c7wsfkmwbbkfiq.png",
+      bio: "Digital transformation expert"
     }
   ];
 
