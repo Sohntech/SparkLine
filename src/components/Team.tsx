@@ -55,7 +55,7 @@ const Team = () => {
   ];
 
   return (
-    <section id="team" className="py-20 bg-white">
+    <section id="team" className="py-44  bg-white">
       <motion.div
         ref={ref}
         initial="hidden"
