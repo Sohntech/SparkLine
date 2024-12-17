@@ -44,7 +44,7 @@ const Masterclass = () => {
           {courses.map((course, index) => (
             <div
               key={index}
-              className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300"
+              className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-200"
             >
               {/* Image Section */}
               <div className="relative h-48">
