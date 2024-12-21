@@ -67,7 +67,7 @@ const Team = () => {
     },
     {
       name: "Ndiaga Lo",
-      role: "Front End Developer",
+      role: "Full Stack Developer | UI/UX Designer",
       image: "https://res.cloudinary.com/drxouwbms/image/upload/v1732391040/h3gxu5c7wsfkmwbbkfiq.png",
       bio: "Digital transformation expert with a passion for creating intuitive and beautiful user experiences.",
       skills: [
